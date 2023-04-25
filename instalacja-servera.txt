@@ -1,0 +1,11 @@
+mkdir foldername
+
+cd foldername
+
+type nul > server.js
+
+npm init
+
+npm install express
+
+nodemon server.js
